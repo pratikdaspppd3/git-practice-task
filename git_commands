@@ -1,0 +1,8 @@
+  310  git init
+  311  ls -a
+  312  git status
+  313  git add .
+  314  git status
+  315  git commit -m "Added testing file"
+  316  git status
+  317  history
