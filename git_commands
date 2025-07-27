@@ -6,3 +6,12 @@
   315  git commit -m "Added testing file"
   316  git status
   317  history
+    321  git commit -m "Added Git commands"
+  322  git status
+  323  it remote add origin https://github.com/pratikdaspppd3/git-practice-task.git
+  324  git remote add origin https://github.com/pratikdaspppd3/git-practice-task.git
+  325  git remote -v
+  326  git push origin master
+  327  git push origin main
+  328  git branch
+  329  history
